@@ -7,3 +7,5 @@ This interactive Streamlit app allows users to compare popular e-commerce delive
 - Analyze **Order Accuracy**
 - Choose between **Bar Chart** and **Pie Chart** visualizations
 - Built using **Streamlit**, **Pandas**, and **Matplotlib**
+# streamlit link 
+https://e-commerceappcomparision-qykok8kxfnczysnsyuwfvz.streamlit.app/
